@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Hello There!
+layout: frontpage
+title: Kevin George
 ---
 
 
