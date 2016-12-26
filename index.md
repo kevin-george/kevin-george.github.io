@@ -11,4 +11,4 @@ I am an alumnus of [Florida State University](http://www.cs.fsu.edu) and [STRIDE
 
 
 I use this website to keep a record of ideas I work on.
-I am also an avid outdoorsman, always in search of my next adventure. Feel free to check my Travel Diary.
+I am also an avid outdoorsman, always in search of my next adventure. Feel free to check my travel diary.
