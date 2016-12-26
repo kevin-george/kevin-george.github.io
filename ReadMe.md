@@ -1,18 +1,16 @@
 ## Simple site: Easy websites with GitHub pages
 
-[Github Pages](http://pages.github.com) provide a simple way to make a
-website using Markdown and git.
+### Setup on Ubuntu Linux to test
 
-This is a minimal tutorial to get started.
+sudo apt-get install ruby-bundler
+sudo gem install github-pages
 
-View the thing [here](http://kbroman.org/simple_site).
+jekyll build
+jekyll serve --watch (This allows incremental auto-build)
+View on http://localhost:4000 
+
+In case of build issues, use gem uninstall on duplicate installations of gems.
 
 ---
 
-To the extent possible under law,
-[Karl Broman](http://github.com/kbroman)
-has waived all copyright and related or neighboring rights to
-&ldquo;[simple site](http://github.com/kbroman/simple_site)&rdquo;.
-This work is published from the United States.
-<br/>
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+This website has been derived from the design provided by [Karl Broman](http://github.com/kbroman)
