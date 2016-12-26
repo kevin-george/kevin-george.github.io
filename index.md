@@ -1,9 +1,8 @@
 ---
 layout: page
+title: Hello There!
 ---
 
-
-Hello there!
 
 I am a Computer Science researcher working with [Intelligent Robotics](https://intelligentrobotics.org) and the [University of Florida](http://www.reef.ufl.edu). My research interests lie in Machine Learning, Computer Vision & Mechatronics. 
 
