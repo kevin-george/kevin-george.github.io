@@ -5,7 +5,7 @@ description: Kevin's Recent Projects
 ---
 
 #### [Computer Vision Tools](https://github.com/kevin-george/cv_tools)
-Since I started exploring Computer Vision, I have written many scripts to accomplish common tasks using OpenCV and other frameworks. In order to share this work with others and have a useful toolbox for myself, I have created this repository.
+One ends up using a common set of tools when working with Computer Vision to solve a problem. This repository serves to be a toolbox of sorts and contains scripts I have written over the years to help with my research.
 
 <br/> <br/>
 
