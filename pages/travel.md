@@ -28,6 +28,12 @@ description: Kevin's Travel Diary
 
 <br/><br/>
 
+## Hiking the [Florida National Scenic Trail](http://floridahikes.com/floridatrail/suwannee/) 
+
+![Hiking the [Florida National Scenic Trail](../assets/travel/scenic.jpg "Hiking the [Florida National Scenic Trail")
+
+<br/><br/>
+
 ## Kayaking the [Suwannee River](https://www.floridastateparks.org/park/Suwannee-River) 
 
 ![Kayaking the Suwannee River](../assets/travel/suwannee.jpg "Kayaking the Suwannee River")
