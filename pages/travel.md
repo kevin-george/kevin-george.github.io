@@ -30,7 +30,7 @@ description: Kevin's Travel Diary
 
 ## Hiking the [Florida National Scenic Trail](http://floridahikes.com/floridatrail/suwannee/) 
 
-![Hiking the [Florida National Scenic Trail](../assets/travel/scenic.jpg "Hiking the [Florida National Scenic Trail")
+![Hiking the Florida National Scenic Trail](../assets/travel/scenic.jpg "Hiking the Florida National Scenic Trail")
 
 <br/><br/>
 
