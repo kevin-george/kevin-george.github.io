@@ -4,6 +4,12 @@ title: Travel Diary
 description: Kevin's Travel Diary
 ---
 
+## Hiking the [Virgin Falls Trail](http://www.cloudhiking.com/trails/virgin-falls.php)
+
+![Hiking the Virgin Falls Trail](../assets/travel/virginfalls.jpg "Hiking the Virgin Falls Trail")
+
+<br/><br/>
+
 ## Hiking the [Grand Teton](https://www.nps.gov/grte/index.htm)
 
 ![Hiking the Grand Teton](../assets/travel/teton.jpg "Hiking the Grand Teton")
