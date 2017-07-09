@@ -4,6 +4,13 @@ title: Travel Diary
 description: Kevin's Travel Diary
 ---
 
+
+## Canoeing [Holmes Creek](https://dep.state.fl.us/gwt/guide/designated_paddle/Holmes_guide.pdf)
+
+![Canoeing Holmes Creek](../assets/travel/holmes.jpg "Canoeing Holmes Creek")
+
+<br/><br/>
+
 ## Hiking the [Virgin Falls Trail](http://www.cloudhiking.com/trails/virgin-falls.php)
 
 ![Hiking the Virgin Falls Trail](../assets/travel/virginfalls.jpg "Hiking the Virgin Falls Trail")
