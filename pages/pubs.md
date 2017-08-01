@@ -11,3 +11,12 @@ description: Kevin's Research
 
 
 Michael Duckett, **Kevin George**, Mallory Haulcomb, Piyush Kumar, Tathagata Mukherjee, Jared Devin Paquet, Eduardo Pasiliao, Daniel Rodriguez (2017) Supervised Learning Approach for Approximate Uncooperative Direction Finding [ECML PKDD](http://ecmlpkdd2017.ijs.si/)
+
+
+### Talks
+
+
+#### 2017
+
+
+Indoor Localization using Convolutional Neural Networks [Mathematical Modeling and Optimization Institute, AFRL](https://mmo.institute/index.html)
