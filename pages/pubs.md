@@ -19,4 +19,4 @@ Michael Duckett, **Kevin George**, Mallory Haulcomb, Piyush Kumar, Tathagata Muk
 #### 2017
 
 
-Indoor Localization using Convolutional Neural Networks [Mathematical Modeling and Optimization Institute, AFRL](https://mmo.institute/index.html)
+GPS-denied navigation using Convolutional Neural Networks [Mathematical Modeling and Optimization Institute, AFRL](https://mmo.institute/index.html)
