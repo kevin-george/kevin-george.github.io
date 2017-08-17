@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: page
 title: Recent Work
 description: Kevin's Recent Work
 ---
