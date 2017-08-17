@@ -1,7 +1,7 @@
 ---
-layout: page
-title: Recent Projects
-description: Kevin's Recent Projects
+layout: blog
+title: Recent Work
+description: Kevin's Recent Work
 ---
 
 #### [Computer Vision Tools](https://github.com/kevin-george/cv_tools)
