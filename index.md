@@ -14,3 +14,6 @@ I am an alumnus of [Florida State University](http://www.cs.fsu.edu) and [STRIDE
 
 I use this website to keep a record of [ideas](pages/recent.html) I work on.
 I am also an avid outdoorsman, always in search of my next adventure. Feel free to check my [travel](pages/travel.html) diary.  
+
+
+I am reachable at **kevin dot george at protonmail dot com**
