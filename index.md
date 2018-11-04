@@ -6,10 +6,10 @@ title: Kevin George
 <br/>
 
 ---
-I am a Computer Science researcher working with [Intelligent Robotics](https://intelligentrobotics.org) and the [University of Florida](http://www.reef.ufl.edu). My research focuses on Perception and Computer Vision in Robotics. 
+I am a Computer Scientist working with [Kindred.ai](https://kindred.ai). My research focuses on Robotics, including Perception & Manipulation. 
 
 
-I am an alumnus of [Florida State University](http://www.cs.fsu.edu) and [STRIDE](http://www.eng.fsu.edu/stride) where I earned my Masters degree in Computer Science. 
+I am an alumnus of [Florida State University](http://www.cs.fsu.edu) and [STRIDE](http://www.eng.fsu.edu/stride) where I earned my Masters degree in Computer Science.
 
 
 I use this website to keep a record of [ideas](pages/recent.html) I work on.
