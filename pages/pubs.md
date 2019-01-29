@@ -4,6 +4,15 @@ title: Research
 description: Kevin's Research
 ---
 
+### 2019
+
+#### Patents
+
+**PT0074-US-1 Systems and Methods for RFID tag singulation by profiling tag motion**
+
+<br/>
+<br/>
+
 
 ### 2018
 
