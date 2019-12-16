@@ -9,6 +9,7 @@ description: Kevin's Research
 #### Patents
 
 **PT0074-US-1 Systems and Methods for RFID tag singulation by profiling tag motion**
+**PT0065-US-2 Systems and Methods for Singulation of an object immersed in a volume containing a plurality of objects**
 
 <br/>
 <br/>
